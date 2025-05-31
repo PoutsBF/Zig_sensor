@@ -21,6 +21,10 @@ Horloge RTC
 <https://github.com/lmahmutov/esp32_c6_co2_sensor>
 <https://github.com/mozolin/ESP32C6_Zigbee>
 
+### Environnement autre (super intéressant)
+
+[OmasLyuchenko](https://medium.com/@omaslyuchenko)
+
 ## A approfondir
 
 ### Gestion des BP / encodeurs / appuis courts et longs
