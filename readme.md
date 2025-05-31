@@ -13,7 +13,7 @@ Horloge RTC
 
 ### Environnement Arduino
 
-<https://github.com/vggscqq/esp32-zigbee-presence/blob/main/sensor_data.ino>
+<[vggscqq/esp32-zigbee-presence](https://github.com/vggscqq/esp32-zigbee-presence)>
 
 ### Environnement ESP-IDF
 
