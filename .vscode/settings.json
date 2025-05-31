@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ino": "cpp",
+        "*.md": "markdown",
+        "esp_zigbee_zcl_common.h": "c"
+    }
+}
